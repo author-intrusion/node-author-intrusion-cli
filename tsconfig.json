@@ -31,7 +31,6 @@
     ],
     "files": [
         "src/cli.ts",
-        "src/cli/lint.ts",
         "src/refs.ts"
     ]
 }
